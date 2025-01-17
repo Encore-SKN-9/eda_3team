@@ -102,6 +102,10 @@ pip install -r requirements.txt
 # 차트 이미지
 ![5개 항목 차트(코로나 하이라이트)](./image/image.png)
 
+# 히트맵 이미지
+![5개 항목 히트맵](./image/hitmap.png)
+
+
 
 
 # 디렉토리 구조
