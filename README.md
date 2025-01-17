@@ -77,6 +77,7 @@ import kagglehub
 import matplotlib.font_manager as fm
 import matplotlib
 import seaborn as sns
+from sklearn.preprocessing import MinMaxScaler
 ```
 ## 설치/사용 방법
 
