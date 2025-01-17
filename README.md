@@ -56,17 +56,18 @@ from sklearn.preprocessing import MinMaxScaler
 ```
 ## 설치/사용 방법
 
+###  GitHub에서 리포지토리 클론
+
+```bash
+git clone https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-5Team.git
+```
+
 ### 라이브러리 설치
 ```bssh
 cd eda_3team
 pip install -r requirements.txt
 ```
 
-###  GitHub에서 리포지토리 클론
-
-```bash
-git clone https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-5Team.git
-```
 
 ## 실행 코드
 
