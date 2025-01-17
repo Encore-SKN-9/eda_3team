@@ -66,6 +66,18 @@
 </br>
 
 # 시작 가이드
+
+## 사용 라이브러리
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import kagglehub
+import matplotlib.font_manager as fm
+import matplotlib
+import seaborn as sns
+```
 ## 설치/사용 방법
 
 ###  GitHub에서 리포지토리 클론
