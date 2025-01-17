@@ -97,30 +97,34 @@ git clone https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-1st-5Team.git
 
 # 디렉토리 구조
 ```
-│ 01.BTC_data.ipynb
-│ 02.USD_KRW.ipynb
-│ 03.KOSPI.ipynb
-│ 04.mini_project_zayden.ipynb
-│ eda_final.ipynb
-│ pt_version.ipynb
-│ README.md
-│ sky_eda.ipynb
-│ snp_btc.ipynb
+├── 01.BTC_data.ipynb
+├── 02.USD_KRW.ipynb
+├── 03.KOSPI.ipynb
+├── 04.mini_project_zayden.ipynb
+├── eda_final.ipynb
+├── pt_version.ipynb
+├── README.md
+├── requirements.txt
+├── sky_eda.ipynb
+├── snp_btc.ipynb
 │
-└─Data
-├── BTC-2017min.csv
-├── BTC-2018min.csv
-├── BTC-2019min.csv
-├── BTC-2020min.csv
-├── BTC-2021min.csv
-├── BTC-Daily.csv
-├── BTC-Hourly.csv
-├── BTC_USD Bitfinex Historical Data.csv
-├── BTC_USD.csv
-├── Gold Price (2013-2023).csv
-├── KOSPI 50 Historical Data.csv
-├── snp500.csv
-└── USD_KRW Historical Data.csv
+├── Data
+│   ├── BTC-2017min.csv
+│   ├── BTC-2018min.csv
+│   ├── BTC-2019min.csv
+│   ├── BTC-2020min.csv
+│   ├── BTC-2021min.csv
+│   ├── BTC-Daily.csv
+│   ├── BTC-Hourly.csv
+│   ├── BTC_USD Bitfinex Historical Data.csv
+│   ├── BTC_USD.csv
+│   ├── Gold Price (2013-2023).csv
+│   ├── KOSPI 50 Historical Data.csv
+│   ├── snp500.csv
+│   └── USD_KRW Historical Data.csv
+│
+└── image
+    └── image.png
 ```
 
 # 한 줄 회고
