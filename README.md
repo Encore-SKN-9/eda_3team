@@ -99,12 +99,52 @@ pip install -r requirements.txt
 </br>
 
 
-# 차트 이미지
-![5개 항목 차트(코로나 하이라이트)](./image/image.png)
 
-# 히트맵 이미지
+<br>
+</br>  
+
+# 데이터 수집 
+ToDo
+
+<br>
+</br>
+
+<br>
+</br>  
+
+# 데이터 전처리 
+
+각 항목에 대하여 null check
+Pirce가 없다 -> High, Low의 평균으로 Price 추가
+주식장은 휴장이 존재한다 -> Data를 Y-M-D 형태로 정리하고 공통으로 존재하는 일자에 대해 시각화
+가격 변동이 심하다 = Price 변동폭이 심하다 -> MinMax 스케일링을 통하여 처리 후 시각화
+
+ToDo
+
+
+<br>
+</br>
+
+
+
+<br>
+</br>  
+
+# 데이터 시각화
+
+## 차트 이미지
+![5개 항목 차트(코로나 하이라이트)](./image/image.png)
+<br>
+</br>  
+
+<br>
+</br>  
+
+## 히트맵 이미지
 ![5개 항목 히트맵](./image/hitmap.png)
 
+<br>
+</br>  
 
 
 
