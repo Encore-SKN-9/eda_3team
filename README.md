@@ -132,19 +132,17 @@ C:.
 ## 📈 Data Analysis (데이터 분석)
 
 #### 5개 주요 항목(S&P 500, KOSPI, 비트코인, 금, 환율)에 대한 가격 변동 (**pt_version.ipynb**)
-
+![r1](https://github.com/user-attachments/assets/c7ad94aa-afd5-4548-b77d-22200be8ae81)
 ![5개 항목 차트 (코로나 하이라이트)](./image/image.png)
 ![5개 항목 히트맵](./image/hitmap.png)
+#### S&P 500, 비트코인(BTC) 변동 분석 (**lgw/snp_btc.ipynb**)
+![r2](https://github.com/user-attachments/assets/4d96fe54-7e87-4341-8953-743074e90cc0)
 ##### - 전체적으로 비슷한 우상향 그래프를 보이나, USD/KRW(환율)은 나머지 항복과 반대 움직임 보임을 관찰 할 수 있음. 코로나 기간 가격상승은 금(Gold) 이 가장 높은 상승을 보임
-
----
-#### S&P 500, 금(Gold) 변동 분석 (**lgw/snp_btc.ipynb**)
 
 ---
 #### 비트코인(BTC), 금(Gold) 자산 분석 (**sky/eda_final.ipynb**)
 ##### 금 가격과 비트코인 변동성 비교 / 경제 위기의 기간 동안의 트랜드 분석
    ![연도별 데이터 분석](https://github.com/user-attachments/assets/30995915-3ca9-41e1-a141-f44d4c60f377)
-##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
    ![산점도](https://github.com/user-attachments/assets/b81fc908-d6a2-45ea-bde1-6f4205948173)
    ![가격 비교 그래프](https://github.com/user-attachments/assets/05852f87-5295-4bd8-84b3-9c10568b7571)
    ![각각의 그래프 가격 비교 그래프](https://github.com/user-attachments/assets/b8ecd8b0-7f76-423a-a69c-c8eb95b0867e)
@@ -158,9 +156,9 @@ C:.
 #### 비트코인(BTC), 환율(USD/KRW), KOSPI 지수 변동 분석
 (**kjh/01.BTC_data.ipynb**, **kjh/02.USD_KRW.ipynb**, **kjh/03.KOSPI.ipynb**, **kjh/04.mini_project_zayden.ipynb**)
    ![4-1](https://github.com/user-attachments/assets/a4d9842d-ec5f-4c3e-ad55-ee917f59eca3)
-##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
-   ![4-2](https://github.com/user-attachments/assets/dc836dbc-65bd-47c0-a3b8-e04d70ca5a7c)
 ##### - 2021년 말, 비트코인 가격이 급등하며 60,000 USD 이상으로 확인, 2022년에 조정을 겪은 뒤, 2023년 말부터 다시 상승세를 보임
+   ![4-2](https://github.com/user-attachments/assets/dc836dbc-65bd-47c0-a3b8-e04d70ca5a7c)
+##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
    ![4-3](https://github.com/user-attachments/assets/f3ee91d8-5cd8-4128-a481-188933162a77)
 ##### - 2020년 COVID-19 팬데믹 이후 저점에서 빠르게 반등하고, 2021년 말에 최고치를 기록한 후 2022년 하락세를 보이며 변동성이 증가
    ![4-4](https://github.com/user-attachments/assets/a2e8a51d-d2d6-4f36-8abd-761608cc9d9a)
