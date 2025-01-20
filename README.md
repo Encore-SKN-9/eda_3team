@@ -134,7 +134,7 @@ C:.
 #### 5개 주요 항목(S&P 500, KOSPI, 비트코인, 금, 환율)에 대한 가격 변동 (**pt_version.ipynb**)
 
 ![5개 항목 차트 (코로나 하이라이트)](./image/image.png)
-##### snp와 BTC는 전체적으로 우상향 그래프를 그리며, 서로 비슷한 움직임 양상을 보임
+##### - snp와 BTC는 전체적으로 우상향 그래프를 그리며, 서로 비슷한 움직임 양상을 보임
 
 ![5개 항목 히트맵](./image/hitmap.png)
 (그래프 해석 설명 필요)
@@ -146,6 +146,7 @@ C:.
 #### 비트코인(BTC), 금(Gold) 자산 분석 (**sky/eda_final.ipynb**)
 ##### 금 가격과 비트코인 변동성 비교 / 경제 위기의 기간 동안의 트랜드 분석
    ![연도별 데이터 분석](https://github.com/user-attachments/assets/30995915-3ca9-41e1-a141-f44d4c60f377)
+##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
    ![산점도](https://github.com/user-attachments/assets/b81fc908-d6a2-45ea-bde1-6f4205948173)
    ![가격 비교 그래프](https://github.com/user-attachments/assets/05852f87-5295-4bd8-84b3-9c10568b7571)
    ![각각의 그래프 가격 비교 그래프](https://github.com/user-attachments/assets/b8ecd8b0-7f76-423a-a69c-c8eb95b0867e)
