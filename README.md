@@ -86,9 +86,6 @@ pip install -r requirements.txt
 - **04.mini_project_zayden.ipynb**  
   비트코인, KOSPI, 환율 3가지 자산의 가격 변동을 합쳐서 분석한 파일입니다.
 
-- **eda_final.ipynb**  
-  (이 파일은 현재 프로젝트에 사용되지 않습니다. 무시해 주세요.)
-
 - **sky_eda.ipynb**  
   비트코인과 금 2개의 자산 가격 변동에 대한 분석 파일입니다.
 
@@ -150,34 +147,41 @@ ToDo
 
 # 디렉토리 구조
 ```
-├── 01.BTC_data.ipynb
-├── 02.USD_KRW.ipynb
-├── 03.KOSPI.ipynb
-├── 04.mini_project_zayden.ipynb
-├── eda_final.ipynb
-├── pt_version.ipynb
-├── README.md
-├── requirements.txt
-├── sky_eda.ipynb
-├── snp_btc.ipynb
+C:.
+│  pt_version.ipynb
+│  README.md
+│  requirements.txt
 │
-├── Data
-│   ├── BTC-2017min.csv
-│   ├── BTC-2018min.csv
-│   ├── BTC-2019min.csv
-│   ├── BTC-2020min.csv
-│   ├── BTC-2021min.csv
-│   ├── BTC-Daily.csv
-│   ├── BTC-Hourly.csv
-│   ├── BTC_USD Bitfinex Historical Data.csv
-│   ├── BTC_USD.csv
-│   ├── Gold Price (2013-2023).csv
-│   ├── KOSPI 50 Historical Data.csv
-│   ├── snp500.csv
-│   └── USD_KRW Historical Data.csv
+├─Data
+│      BTC-2017min.csv
+│      BTC-2018min.csv
+│      BTC-2019min.csv
+│      BTC-2020min.csv
+│      BTC-2021min.csv
+│      BTC-Daily.csv
+│      BTC-Hourly.csv
+│      BTC_USD Bitfinex Historical Data.csv
+│      BTC_USD.csv
+│      Gold Price (2013-2023).csv
+│      KOSPI 50 Historical Data.csv
+│      snp500.csv
+│      USD_KRW Historical Data.csv
 │
-└── image
-    └── image.png
+├─image
+│      hitmap.png
+│      image.png
+│
+├─kjh
+│      01.BTC_data.ipynb
+│      02.USD_KRW.ipynb
+│      03.KOSPI.ipynb
+│      04.mini_project_zayden.ipynb
+│
+├─lgw
+│      snp_btc.ipynb
+│
+└─sky
+        eda_final.ipynb
 ```
 
 # 한 줄 회고
