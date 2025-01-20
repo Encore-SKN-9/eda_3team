@@ -171,14 +171,13 @@ C:.
 ##### - 경제 위기 시기(회색 영역) 동안 금 가격은 안정적인 상승세를 보였고, 코로나 팬데믹 초기(2020년 초)에는 금과 비슷하게 약간의 조정을 보였지만, 이후 급격한 상승세를 보이며 최고치를 기록
 
 ---
-
+#### S&P 500, 비트코인(BTC) 변동 분석 (**lgw/snp_btc.ipynb**)
+![r2](https://github.com/user-attachments/assets/4d96fe54-7e87-4341-8953-743074e90cc0)
+##### - 전체적으로 비슷한 우상향 그래프를 보이나, USD/KRW(환율)은 나머지 항복과 반대 움직임 보임을 관찰 할 수 있음. 코로나 기간 가격상승은 금(Gold) 이 가장 높은 상승을 보임
 #### 5개 주요 항목(S&P 500, KOSPI, 비트코인, 금, 환율)에 대한 가격 변동 (**pt_version.ipynb**)
 ![r1](https://github.com/user-attachments/assets/c7ad94aa-afd5-4548-b77d-22200be8ae81)
 ![5개 항목 차트 (코로나 하이라이트)](./image/image.png)
 ![5개 항목 히트맵](./image/hitmap.png)
-#### S&P 500, 비트코인(BTC) 변동 분석 (**lgw/snp_btc.ipynb**)
-![r2](https://github.com/user-attachments/assets/4d96fe54-7e87-4341-8953-743074e90cc0)
-##### - 전체적으로 비슷한 우상향 그래프를 보이나, USD/KRW(환율)은 나머지 항복과 반대 움직임 보임을 관찰 할 수 있음. 코로나 기간 가격상승은 금(Gold) 이 가장 높은 상승을 보임
 
 ---
 
