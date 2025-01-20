@@ -7,6 +7,12 @@
 ---
 
 ## 📢 Team Introduction (팀 소개)
+| 이름      | GitHub ID                          |
+|-----------|------------------------------------|
+| 🧑‍💻 김정훈  | [@Zayden0815](https://github.com/Zayden0815) |
+| 👩‍💻 김하늘  | [@nini12091](https://github.com/nini12091)        |
+| 👩‍💻 이광운  | [@Leegwangwoon](https://github.com/Leegwangwoon)          |
+| 👨‍💻 정윤경  | [@kinoble](https://github.com/kinoble) |
 
 ### 팀명 : **경제 콜럼버스 (SKN09-eda-3Team)**
 
