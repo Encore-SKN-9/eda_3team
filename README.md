@@ -158,7 +158,18 @@ C:.
 ---
 #### 비트코인(BTC), 환율(USD/KRW), KOSPI 지수 변동 분석
 (**kjh/01.BTC_data.ipynb**, **kjh/02.USD_KRW.ipynb**, **kjh/03.KOSPI.ipynb**, **kjh/04.mini_project_zayden.ipynb**)
-
+##### 3-1. 
+   ![4-1](https://github.com/user-attachments/assets/a4d9842d-ec5f-4c3e-ad55-ee917f59eca3)
+##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
+   ![4-2](https://github.com/user-attachments/assets/dc836dbc-65bd-47c0-a3b8-e04d70ca5a7c)
+##### - 2021년 말, 비트코인 가격이 급등하며 60,000 USD 이상으로 확인, 2022년에 조정을 겪은 뒤, 2023년 말부터 다시 상승세를 보임
+   ![4-3](https://github.com/user-attachments/assets/f3ee91d8-5cd8-4128-a481-188933162a77)
+   
+   ![4-4](https://github.com/user-attachments/assets/a2e8a51d-d2d6-4f36-8abd-761608cc9d9a)
+   ![4-5](https://github.com/user-attachments/assets/9cbb4a08-b16d-44e5-9c8a-368d96415185)
+   ![4-6](https://github.com/user-attachments/assets/a0b58a3a-e0fc-4132-8a13-e26d66e2806e)
+   ![4-7](https://github.com/user-attachments/assets/810d635b-cb90-4f7d-a1ac-04fd0bf0671f)
+   ![4-8](https://github.com/user-attachments/assets/83065d9f-c5c6-4b35-8156-2b046aab4dfa)
 
 
 ## 📝 Conclusion (결론)
@@ -168,7 +179,7 @@ C:.
 ---
 
 ## 💬 Team Reflection (한 줄 회고)
-- **김정훈**: (작성 필요)
+- **김정훈**: numpy와 pandas를 활용하여, 원하는 형식으로 데이터를 정제하고 청중에게 이해를 도울 수 있게 matplolib으로 다양한 방식으로 데이터에 맞게 시각화할 수 있다는 것을 알게되었습니다. 
 - **김하늘**: (작성 필요)
 - **이광운**: 수집 기간과 변동폭이 서로 다른 항목에 스케일링 필요성과 같은 데이터라도 결과를 강조하거나 희석시키는 방식이 가능함을 관찰.
 - **정윤경**: (작성 필요)
