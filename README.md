@@ -143,14 +143,22 @@ C:.
 #### 비트코인(BTC), 금(Gold) 자산 분석 (**sky/eda_final.ipynb**)
 ##### 금 가격과 비트코인 변동성 비교 / 경제 위기의 기간 동안의 트랜드 분석
    ![연도별 데이터 분석](https://github.com/user-attachments/assets/30995915-3ca9-41e1-a141-f44d4c60f377)
+##### - 금 가격은 2020년 이후 경제 불확실성과 안전 자산 선호로 인해 평균적으로 1800달러로 상승 / 비트코인은 2021년 급격한 투자 수요로 증가로 최소/최대 가격 범위가 크게 확대  
    ![산점도](https://github.com/user-attachments/assets/b81fc908-d6a2-45ea-bde1-6f4205948173)
+##### - X 값 변화에 Y값 영향을 주지 않는 것으로 보임
    ![가격 비교 그래프](https://github.com/user-attachments/assets/05852f87-5295-4bd8-84b3-9c10568b7571)
    ![각각의 그래프 가격 비교 그래프](https://github.com/user-attachments/assets/b8ecd8b0-7f76-423a-a69c-c8eb95b0867e)
+##### - X 값 변화에 Y값 영향을 주지 않는 것으로 보임
    ![정규화 가격 비교 그래프](https://github.com/user-attachments/assets/87258867-2120-4e70-b955-9858596b7b8a)
+
    ![1](https://github.com/user-attachments/assets/25248b4c-bb8f-439d-8400-564eab86a4f1)
+
    ![2](https://github.com/user-attachments/assets/a2affad8-7e8a-4184-b190-959b07af78d2)
+
    ![3](https://github.com/user-attachments/assets/8e38881d-cd3d-4585-bc75-0ebe87daa5be)
+
    ![4](https://github.com/user-attachments/assets/05f4463d-6270-481f-a7fc-8f7095f704e8)
+
 
 ---
 #### 비트코인(BTC), 환율(USD/KRW), KOSPI 지수 변동 분석
