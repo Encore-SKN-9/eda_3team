@@ -148,7 +148,7 @@ C:.
 ##### - X 값 변화에 Y값 영향을 주지 않는 것으로 보임
    ![가격 비교 그래프](https://github.com/user-attachments/assets/05852f87-5295-4bd8-84b3-9c10568b7571)
    ![각각의 그래프 가격 비교 그래프](https://github.com/user-attachments/assets/b8ecd8b0-7f76-423a-a69c-c8eb95b0867e)
-##### - X 값 변화에 Y값 영향을 주지 않는 것으로 보임
+##### - 
    ![정규화 가격 비교 그래프](https://github.com/user-attachments/assets/87258867-2120-4e70-b955-9858596b7b8a)
 
    ![1](https://github.com/user-attachments/assets/25248b4c-bb8f-439d-8400-564eab86a4f1)
