@@ -158,18 +158,19 @@ C:.
 ---
 #### 비트코인(BTC), 환율(USD/KRW), KOSPI 지수 변동 분석
 (**kjh/01.BTC_data.ipynb**, **kjh/02.USD_KRW.ipynb**, **kjh/03.KOSPI.ipynb**, **kjh/04.mini_project_zayden.ipynb**)
-##### 3-1. 
    ![4-1](https://github.com/user-attachments/assets/a4d9842d-ec5f-4c3e-ad55-ee917f59eca3)
 ##### - 2022년 이후 원화 약세로 인해 환율이 크게 상승하는 것을 확인
    ![4-2](https://github.com/user-attachments/assets/dc836dbc-65bd-47c0-a3b8-e04d70ca5a7c)
 ##### - 2021년 말, 비트코인 가격이 급등하며 60,000 USD 이상으로 확인, 2022년에 조정을 겪은 뒤, 2023년 말부터 다시 상승세를 보임
    ![4-3](https://github.com/user-attachments/assets/f3ee91d8-5cd8-4128-a481-188933162a77)
-   
+##### - 2020년 COVID-19 팬데믹 이후 저점에서 빠르게 반등하고, 2021년 말에 최고치를 기록한 후 2022년 하락세를 보이며 변동성이 증가
    ![4-4](https://github.com/user-attachments/assets/a2e8a51d-d2d6-4f36-8abd-761608cc9d9a)
+##### - 2021년 말, 비트코인 가격이 급등하며 60,000 USD 이상으로 확인, 2022년에 조정을 겪은 뒤, 2023년 말부터 다시 상승세를 보임
    ![4-5](https://github.com/user-attachments/assets/9cbb4a08-b16d-44e5-9c8a-368d96415185)
    ![4-6](https://github.com/user-attachments/assets/a0b58a3a-e0fc-4132-8a13-e26d66e2806e)
    ![4-7](https://github.com/user-attachments/assets/810d635b-cb90-4f7d-a1ac-04fd0bf0671f)
    ![4-8](https://github.com/user-attachments/assets/83065d9f-c5c6-4b35-8156-2b046aab4dfa)
+##### - USD/KRW, BTC, KOSPI 모두 2020년대 초반에 큰 변동성을 보였고, 특히, BTC는 2021년에 사상 최고치를 기록했으며, USD/KRW는 2022년 이후 상장되었음. 
 
 
 ## 📝 Conclusion (결론)
